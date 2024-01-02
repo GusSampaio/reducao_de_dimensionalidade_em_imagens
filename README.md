@@ -1,2 +1,6 @@
-# reducao_de_dimensionalidade_em_imagens
-O projeto visa realizar a redução de dimensionalidade em imagens, começando pela conversão de imagens coloridas para tons de cinza. Posteriormente, estende-se a redução para representações binárias, onde a matriz de cada imagem contém apenas valores 0 ou 1, consolidando a simplificação dimensional almejada.
+# Reducao de dimensionalidade em imagens
+O objetivo central do projeto é implementar a redução de dimensionalidade em imagens.
+
+Inicialmente, esse processo foi iniciado ao converter uma imagem colorida (com 3 dimensões RGB) para uma representação em tons de cinza, resultando em valores variando de 0 a 255 em cada pixel.
+
+Em uma etapa subsequente, ampliou-se a redução de dimensionalidade ao transformar tanto imagens coloridas quanto imagens em tons de cinza em representações binárias. Nesse contexto, a matriz que representa cada imagem contém exclusivamente valores de 0 ou 1, consolidando assim a simplificação dimensional desejada.
